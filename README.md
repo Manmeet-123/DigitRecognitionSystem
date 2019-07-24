@@ -3,7 +3,7 @@
 The Digit Recognition System is Used to recognise the handwritten digits. The building of the system involve following steps:
 
 Step 1: Configuring the Project:
-This step involve the setting up of the Anaconda environment, Jupyter Notebook and tensorflow and other libraries
+This step involve the setting up of python virtual environment and installing tensorflow and other libraries
 
 Step 2: Importing the MNIST Dataset:
 This step involves the importing of the MNIST digit dataset for the trainig purpose
